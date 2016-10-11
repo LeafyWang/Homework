@@ -1,3 +1,4 @@
 # Homework
-homework in nctu
-this is an experiment
+Homework in NCTU
+
+both IA and SE
